@@ -1,8 +1,7 @@
 <h1> Hi, I'm Tim 👋 </h1>
 
 <h2><strong> Personal Project:</strong> <a href="https://github.com/Timothy-Li/tricky-words">Tricky Words App</a></h2>
-<p> An app designed to help my 5 year old daughter with practising phonics and reading.<p>
-<p>Current progress: MVP 1 complete (core functionality).</p>
+<p> An full-stack React app designed to help my 5 year old daughter (and other children) with practising phonics and reading.<p>
 
  <h2><strong>School of Code Projects:</strong></h2>
 
