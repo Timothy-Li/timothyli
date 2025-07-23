@@ -1,6 +1,8 @@
 <h1> Hi, I'm Tim 👋 </h1>
 
-<h2><strong> Personal Project:</strong> <a href="https://github.com/Timothy-Li/tricky-words">Tricky Words App</a></h2>
+<h2><a href="https://github.com/Timothy-Li/portfolio">Personal Portfolio</a></h2>
+<p>My personal portfolio site, built with Next.js.</p>
+<h2><a href="https://github.com/Timothy-Li/tricky-words">Tricky Words App</a></h2>
 <p> An full-stack React app designed to help my 5 year old daughter (and other children) with practising phonics and reading.<p>
 
  <h2><strong>School of Code Projects:</strong></h2>
